@@ -1,1 +1,2 @@
-# PRO-C168-AR-TOY-STORE-STAGE-1
+# PRO-C168-AR
+After class project for C168
